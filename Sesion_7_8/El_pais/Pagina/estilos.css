@@ -1,0 +1,52 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    width: 100%;
+    margin: 0%;
+    text-align: center;
+
+  }
+
+#CajaSuperior {
+  background-color: rgb(124, 158, 221);
+  background-image: url(img/Elpais_logo.png);
+  padding: 7px;
+  padding-top: 7px;
+  font-size: 10px;
+  color: aquamarine;
+
+}
+#ImagenCabecera {
+  padding: 10vw;
+  padding-top: 5vw;
+  margin: 0%;
+ /* background-color: bisque; */
+}
+article{
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+}
+h2{
+  font-size: 18px;
+  font-weight: normal;
+}
+h3{
+  font-size: 10px;
+  font-weight: bold;
+  color: grey;
+}
+h4{
+  font-size: 8px;
+  font-weight: bold;
+  color: grey;
+  padding-bottom: 6vw;
+}
+h5{
+  font-size: 13px;
+  font-weight: normal;
+}
