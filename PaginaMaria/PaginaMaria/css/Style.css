@@ -1,0 +1,78 @@
+main > * {
+  box-sizing: border-box;
+ 
+}
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-family: "Apple Chancery", "cursive";
+  font-weight: 500;
+  color: grey;
+  font-size: x-large;
+}
+
+.caligrafia{
+    padding-left: 23%;
+}
+
+.container-fluid{
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.fotocentro{
+  margin-left: 20%;
+}
+
+
+
+h1{
+  padding-top: 15%;
+  color: rgb(55, 82, 155);
+  
+}
+.texto3{
+  font-size: 23px;
+  padding-right: 15%;
+}
+button{
+  border-radius: 10px;
+  background-color: white;
+}
+;
+}
+.imagen2{
+  padding-top: 10%;
+}
+section{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around	;
+
+}
+section div{
+  width: 33%;
+  min-width: 300px;
+  padding:8px;
+  padding-top: 10%;
+}
+
+.vertical{
+    border:         none;
+    border-left:    1px solid ;
+    height:         20vh;
+    width:          1px;       
+}
+
+.cookies{
+  color: rgb(93, 93, 187);
+  background-color: white;
+  text-align: center;
+}
+
